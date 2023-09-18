@@ -1,5 +1,6 @@
-package me.newzoni.springbootdeveloper.member;
+package me.newzoni.springbootdeveloper;
 
+import me.newzoni.springbootdeveloper.member.Member;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

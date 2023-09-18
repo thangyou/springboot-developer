@@ -1,5 +1,7 @@
-package me.newzoni.springbootdeveloper.member;
+package me.newzoni.springbootdeveloper;
 
+import me.newzoni.springbootdeveloper.member.Member;
+import me.newzoni.springbootdeveloper.member.MemberRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
